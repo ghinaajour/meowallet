@@ -1,6 +1,6 @@
 # MeoWallet
 
-All credit goes to https://github.com/naps62. I couldn’t find the original repo to clone it so I re-uploaded it.
+Credit goes to https://github.com/naps62. I couldn’t find the original repo to clone it so I re-uploaded it.
 
 ## Installation
 
